@@ -1,0 +1,9 @@
+C:\DEV\PERSO\LetMyCatEnter\ShowMyCat\ShowMyCat\bin\Debug\ShowMyCat.exe.config
+C:\DEV\PERSO\LetMyCatEnter\ShowMyCat\ShowMyCat\bin\Debug\ShowMyCat.exe
+C:\DEV\PERSO\LetMyCatEnter\ShowMyCat\ShowMyCat\bin\Debug\ShowMyCat.pdb
+C:\DEV\PERSO\LetMyCatEnter\ShowMyCat\ShowMyCat\obj\Debug\ShowMyCat.csprojResolveAssemblyReference.cache
+C:\DEV\PERSO\LetMyCatEnter\ShowMyCat\ShowMyCat\obj\Debug\ShowMyCat.Properties.Resources.resources
+C:\DEV\PERSO\LetMyCatEnter\ShowMyCat\ShowMyCat\obj\Debug\ShowMyCat.csproj.GenerateResource.Cache
+C:\DEV\PERSO\LetMyCatEnter\ShowMyCat\ShowMyCat\obj\Debug\ShowMyCat.exe
+C:\DEV\PERSO\LetMyCatEnter\ShowMyCat\ShowMyCat\obj\Debug\ShowMyCat.pdb
+C:\DEV\PERSO\LetMyCatEnter\ShowMyCat\ShowMyCat\obj\Debug\ShowMyCat.ShowMyCatForm.resources
